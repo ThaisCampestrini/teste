@@ -39,6 +39,9 @@
     width: 100%;
 }
 
+.negrito{
+    font-weight: 900;
+}
 .servico{
     font-family: montserrat, verdana, 'trebuchet ms', sans-serif;
     font-size: 32px;
